@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My-tech-projects\\Back-End\\BlogPost\\BlogPost\\BlogPost.csproj": {}
+    "F:\\Projects\\FintechBlogPost\\FinTech-BlogPost\\BlogPost\\BlogPost.csproj": {}
   },
   "projects": {
-    "D:\\My-tech-projects\\Back-End\\BlogPost\\BlogPost\\BlogPost.csproj": {
+    "F:\\Projects\\FintechBlogPost\\FinTech-BlogPost\\BlogPost\\BlogPost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My-tech-projects\\Back-End\\BlogPost\\BlogPost\\BlogPost.csproj",
+        "projectUniqueName": "F:\\Projects\\FintechBlogPost\\FinTech-BlogPost\\BlogPost\\BlogPost.csproj",
         "projectName": "BlogPost",
-        "projectPath": "D:\\My-tech-projects\\Back-End\\BlogPost\\BlogPost\\BlogPost.csproj",
-        "packagesPath": "C:\\Users\\omars\\.nuget\\packages\\",
-        "outputPath": "D:\\My-tech-projects\\Back-End\\BlogPost\\BlogPost\\obj\\",
+        "projectPath": "F:\\Projects\\FintechBlogPost\\FinTech-BlogPost\\BlogPost\\BlogPost.csproj",
+        "packagesPath": "C:\\Users\\Me\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\FintechBlogPost\\FinTech-BlogPost\\BlogPost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\omars\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Me\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -126,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
